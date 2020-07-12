@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Nommush</string>
+    <string name="text_input">Input text:</string>
+    <string name="input_here" >Input here</string>
+    <string name="cancel">Cancel</string>
+    <string name="nomlish">Nomlish!</string>
 </resources>
