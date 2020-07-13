@@ -4,4 +4,6 @@
     <string name="input_here">ここにテキストを入力</string>
     <string name="cancel">キャンセル</string>
     <string name="nomlish">ノムリッシュ！</string>
+    <string name="howto_title">マッシュルームの起動方法</string>
+    <string name="howto_desc">マッシュルームに対応した IME を使用します。\nマッシュルームを選択する画面で、Nommush を選択します。\nテキストを入力して、ノムリッシュ翻訳します。</string>
 </resources>

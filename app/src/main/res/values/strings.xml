@@ -4,4 +4,6 @@
     <string name="input_here" >Input here</string>
     <string name="cancel">Cancel</string>
     <string name="nomlish">Nomlish!</string>
+    <string name="howto_title">How to Launch Mushroom:</string>
+    <string name="howto_desc">Use the IME that supports mushrooms.\nOn the screen to select a mushroom, select Nommush.\nEnter the text to translate Nommush.</string>
 </resources>
