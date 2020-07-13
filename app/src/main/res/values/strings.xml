@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Nommush</string>
+    <string name="mush_title">Translate Nomlish</string>
     <string name="text_input">Input text:</string>
     <string name="input_here" >Input here</string>
     <string name="cancel">Cancel</string>

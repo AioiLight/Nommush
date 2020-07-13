@@ -22,6 +22,8 @@ class MushroomActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_mushroom)
 
+        setTitle(R.string.mush_title)
+
         val action = intent.action
         if (action != null && ACTION_INTERCEPT == action)
         {
