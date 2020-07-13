@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_input">入力テキスト:</string>
+    <string name="input_here">ここにテキストを入力</string>
+    <string name="cancel">キャンセル</string>
+    <string name="nomlish">ノムリッシュ！</string>
+</resources>
