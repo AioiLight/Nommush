@@ -9,4 +9,5 @@
     <string name="howto_desc">Use the IME that supports mushrooms.\nOn the screen to select a mushroom, select Nommush.\nEnter the text to translate Nommush.</string>
     <string name="open_nomlish">Open Nomlish\'s Website</string>
     <string name="ime_picker">Open IME Picker</string>
+    <string name="nomlish_url" translatable="false">https://racing-lagoon.info/nomu/translate.php</string>
 </resources>

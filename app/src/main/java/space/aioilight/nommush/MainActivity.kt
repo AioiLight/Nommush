@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         findViewById<Button>(R.id.button_web).setOnClickListener {
-            val url = "https://racing-lagoon.info/nomu/translate.php"
+            val url = getString(R.string.nomlish_url)
             val uri = Uri.parse(url)
             val intents = Intent(Intent.ACTION_VIEW, uri)
             startActivity(intents)
