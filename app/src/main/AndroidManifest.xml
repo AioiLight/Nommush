@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MushroomActivity">
+        <activity android:name=".MushroomActivity"
+            android:windowSoftInputMode="stateAlwaysVisible">
             <intent-filter>
                 <action android:name="com.adamrocker.android.simeji.ACTION_INTERCEPT" />
                 <category android:name="com.adamrocker.android.simeji.REPLACE" />

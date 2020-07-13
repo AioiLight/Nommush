@@ -1,9 +1,11 @@
 package space.aioilight.nommush
 
 import android.app.Activity
+import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.text.Editable
+import android.view.inputmethod.InputMethodManager
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
@@ -23,6 +25,9 @@ class MushroomActivity : AppCompatActivity() {
         setContentView(R.layout.activity_mushroom)
 
         setTitle(R.string.mush_title)
+
+        val edit = findViewById<EditText>(R.id.inputBox)
+        edit.requestFocus()
 
         val action = intent.action
         if (action != null && ACTION_INTERCEPT == action)
