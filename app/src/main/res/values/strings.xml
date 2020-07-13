@@ -7,4 +7,6 @@
     <string name="nomlish">Nomlish!</string>
     <string name="howto_title">How to Launch Mushroom:</string>
     <string name="howto_desc">Use the IME that supports mushrooms.\nOn the screen to select a mushroom, select Nommush.\nEnter the text to translate Nommush.</string>
+    <string name="open_nomlish">Open Nomlish\'s Website</string>
+    <string name="ime_picker">Open IME Picker</string>
 </resources>
